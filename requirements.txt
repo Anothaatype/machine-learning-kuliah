@@ -1,0 +1,15 @@
+openai
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+tensorflow 
+keras
+jupyter
+notebook
+PyPREP // A Python library for analyzing and processing ECG (electrocardiogram) signals. Used in biomedical signal processing, healthcare apps, and wearable device analytics.
+Scipy // A fundamental library for scientific and numerical computing in Python. Often used in data analysis, simulations, and signal/ECG processing.
+wandb // A tool for experiment tracking, model monitoring, and collaboration in machine learning projects. Helps track training progress, visualize results, and share with teams
+pyECG // A Python implementation of the PREP pipeline (originally for EEG preprocessing). Helps researchers prepare EEG datasets before running feature extraction or machine learning.
+ipykernel
