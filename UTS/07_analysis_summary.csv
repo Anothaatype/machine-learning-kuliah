@@ -1,0 +1,16 @@
+Metric,Value
+Total Records,2919
+Original Features,81
+After Preprocessing,25
+Selected Features (KMeans),10
+Best KMeans k,3
+Best KMeans Silhouette,0.2716
+DBSCAN Clusters,77
+DBSCAN Noise Points,1833
+DBSCAN Silhouette,-0.2612
+DBSCAN DBI,1.4222
+Bonus: Features Used,5
+Bonus: Method,KMeans
+Bonus: Clusters,6
+Bonus: Silhouette,0.4210
+Bonus: DBI,0.7063
