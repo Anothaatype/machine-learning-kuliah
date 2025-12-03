@@ -4,7 +4,6 @@ numpy
 pandas
 scikit-learn
 seaborn
-tensorflow 
 keras
 jupyter
 notebook
@@ -13,3 +12,9 @@ Scipy # A fundamental library for scientific and numerical computing in Python. 
 wandb # A tool for experiment tracking, model monitoring, and collaboration in machine learning projects. Helps track training progress, visualize results, and share with teams
 pyECG # A Python implementation of the PREP pipeline (originally for EEG preprocessing). Helps researchers prepare EEG datasets before running feature extraction or machine learning.
 ipykernel
+flask
+tensorflow-cpu
+numpy
+scikit-image
+opencv-python-headless
+gunicorn
